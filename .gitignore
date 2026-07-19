@@ -1,0 +1,13 @@
+# Unrelated learning repo kept in the same folder
+SQL-Mastery/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Postgres dumps & local artifacts
+*.dump
+*.backup
+*.log
