@@ -785,3 +785,5 @@ The natural next topics, roughly in order of usefulness:
 - **Date functions:** `DATE_TRUNC`, `EXTRACT`, intervals, for time-series reporting
 - **Normalisation theory:** 1NF through 3NF, and when denormalising is the right call
 - **Stored procedures and triggers**
+
+## Author - Mwai Victor
