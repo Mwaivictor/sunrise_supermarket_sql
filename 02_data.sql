@@ -1,5 +1,5 @@
 -- =============================================================
--- Sunrise Supermarket — Sample Data (INSERT / UPDATE / DELETE)
+-- Sunrise Supermarket: Sample Data (INSERT / UPDATE / DELETE)
 -- Run after 01_schema.sql
 -- =============================================================
 

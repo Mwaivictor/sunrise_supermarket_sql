@@ -1,5 +1,5 @@
 -- =============================================================
--- Sunrise Supermarket — Business Queries
+-- Sunrise Supermarket: Business Queries
 -- Run after 01_schema.sql and 02_data.sql
 --
 -- Logical clause order used throughout:

@@ -1,5 +1,5 @@
 -- =============================================================
--- Sunrise Supermarket — Schema Definition
+-- Sunrise Supermarket: Schema Definition
 -- PostgreSQL 16
 --
 -- Creates the `sunrise` schema, the order_status ENUM, and the
